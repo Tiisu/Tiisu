@@ -1,3 +1,3 @@
 # Hi there 👋. I am Tiisu Sharif
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiisu)](https://github.com/Tiisu/github-readme-stats)
-
+<img align = 'left' width= '470px'  src= 'https://github-readme-stats.vercel.app/api?username=Tiisu&show_icons=true' /> 
+<img  align = 'left' width= '470px' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=Tiisu&layout=compact' />
