@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hello world, 👋What's Up?</h1>
 
 <div align="center">
   <img  width= '350px'  src= 'https://github-readme-stats.vercel.app/api?username=Tiisu&show_icons=true'/> 
